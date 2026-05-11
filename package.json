@@ -1,0 +1,27 @@
+{
+  "name": "gerenciador-de-tarefas",
+  "version": "1.0.0",
+  "description": "Esse projeto tem como objetivo criar um gerenciador de tarefas, unindo conceitos do back-end e front-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilherme0309Eduardo/Gerenciador-de-Tarefas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Guilherme0309Eduardo/Gerenciador-de-Tarefas/issues"
+  },
+  "homepage": "https://github.com/Guilherme0309Eduardo/Gerenciador-de-Tarefas#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
