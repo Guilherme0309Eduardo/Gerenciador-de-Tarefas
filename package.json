@@ -4,7 +4,8 @@
   "description": "Esse projeto tem como objetivo criar um gerenciador de tarefas, unindo conceitos do back-end e front-end.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/backend/app.js"
   },
   "repository": {
     "type": "git",
